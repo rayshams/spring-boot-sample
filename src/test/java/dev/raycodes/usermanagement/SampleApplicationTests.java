@@ -1,4 +1,4 @@
-package dev.raycodes.sample;
+package dev.raycodes.usermanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

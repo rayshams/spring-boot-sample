@@ -1,13 +1,13 @@
-package dev.raycodes.sample;
+package dev.raycodes.usermanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SampleApplication {
+public class UserManagementApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SampleApplication.class, args);
+		SpringApplication.run(UserManagementApplication.class, args);
 	}
 
 }
